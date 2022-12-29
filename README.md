@@ -1,5 +1,5 @@
 # TheUnfinishedSwanInternal
 A very little internal cheat which allows for autowalk, fly and coordinate displaying.
-It uses the ftxui library to turn the cmd into something more beautiful!
+It uses the ftxui library to turn the cmd into something more beautiful!  
 #### Use any injector of your choice (the game does not contain an AC). I used ProcessHacker :)
-## Enjoy exploring the world of The Unfinished Swan!
+### Enjoy exploring the world of The Unfinished Swan!
